@@ -1685,7 +1685,7 @@ header .logo a {
 #resume .timeline-header p {
 	font-family: "poppins-regular", sans-serif;
 	font-size: 1.6rem;
-	color: #c4c1e0;
+	color: #7c73e6;
 }
 #resume .timeline-content {
 	margin-left: 35%;
@@ -2503,9 +2503,6 @@ footer a:hover, footer a:focus {
 }
 footer .row {
 	max-width: 900px;
-}
-footer .social {
-	text-align: right;
 }
 footer .footer-social {
 	display: inline-block;
