@@ -2527,6 +2527,7 @@ header .logo a {
 #stats .stat {
   border-left: 1px solid rgba(255, 255, 255, 0.12);
   min-height: 17.4rem;
+  margin-bottom: 20px;
 }
 
 #stats .stat:first-child {
@@ -2535,7 +2536,7 @@ header .logo a {
 
 #stats .icon-part i {
   font-size: 2.5rem;
-  color: #000000;
+  color: #BFBBEA;
 }
 
 #stats .stat-count {
@@ -2965,9 +2966,14 @@ header .logo a {
 
     footer .social {
       display: block;
-      width: 100%;
+      width: 50%;
+      margin-left: 25%;
       text-align: center;
       margin-bottom: 1.5rem;
+    }
+
+    footer .social li {
+      margin: 5px;
     }
 
     footer .copyright span {
